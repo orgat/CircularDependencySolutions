@@ -1,0 +1,14 @@
+C:\Users\orgat\source\repos\CircularDependencySolutions\WithDelegates\bin\Debug\netcoreapp3.1\WithDelegates.exe
+C:\Users\orgat\source\repos\CircularDependencySolutions\WithDelegates\bin\Debug\netcoreapp3.1\WithDelegates.deps.json
+C:\Users\orgat\source\repos\CircularDependencySolutions\WithDelegates\bin\Debug\netcoreapp3.1\WithDelegates.runtimeconfig.json
+C:\Users\orgat\source\repos\CircularDependencySolutions\WithDelegates\bin\Debug\netcoreapp3.1\WithDelegates.runtimeconfig.dev.json
+C:\Users\orgat\source\repos\CircularDependencySolutions\WithDelegates\bin\Debug\netcoreapp3.1\WithDelegates.dll
+C:\Users\orgat\source\repos\CircularDependencySolutions\WithDelegates\bin\Debug\netcoreapp3.1\WithDelegates.pdb
+C:\Users\orgat\source\repos\CircularDependencySolutions\WithDelegates\obj\Debug\netcoreapp3.1\WithDelegates.csproj.AssemblyReference.cache
+C:\Users\orgat\source\repos\CircularDependencySolutions\WithDelegates\obj\Debug\netcoreapp3.1\WithDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orgat\source\repos\CircularDependencySolutions\WithDelegates\obj\Debug\netcoreapp3.1\WithDelegates.AssemblyInfoInputs.cache
+C:\Users\orgat\source\repos\CircularDependencySolutions\WithDelegates\obj\Debug\netcoreapp3.1\WithDelegates.AssemblyInfo.cs
+C:\Users\orgat\source\repos\CircularDependencySolutions\WithDelegates\obj\Debug\netcoreapp3.1\WithDelegates.csproj.CoreCompileInputs.cache
+C:\Users\orgat\source\repos\CircularDependencySolutions\WithDelegates\obj\Debug\netcoreapp3.1\WithDelegates.dll
+C:\Users\orgat\source\repos\CircularDependencySolutions\WithDelegates\obj\Debug\netcoreapp3.1\WithDelegates.pdb
+C:\Users\orgat\source\repos\CircularDependencySolutions\WithDelegates\obj\Debug\netcoreapp3.1\WithDelegates.genruntimeconfig.cache

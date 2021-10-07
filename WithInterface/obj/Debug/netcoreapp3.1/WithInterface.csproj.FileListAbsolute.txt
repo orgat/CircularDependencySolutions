@@ -1,0 +1,13 @@
+C:\Users\orgat\source\repos\CircularDependencySolutions\WithInterface\bin\Debug\netcoreapp3.1\WithInterface.exe
+C:\Users\orgat\source\repos\CircularDependencySolutions\WithInterface\bin\Debug\netcoreapp3.1\WithInterface.deps.json
+C:\Users\orgat\source\repos\CircularDependencySolutions\WithInterface\bin\Debug\netcoreapp3.1\WithInterface.runtimeconfig.json
+C:\Users\orgat\source\repos\CircularDependencySolutions\WithInterface\bin\Debug\netcoreapp3.1\WithInterface.runtimeconfig.dev.json
+C:\Users\orgat\source\repos\CircularDependencySolutions\WithInterface\bin\Debug\netcoreapp3.1\WithInterface.dll
+C:\Users\orgat\source\repos\CircularDependencySolutions\WithInterface\bin\Debug\netcoreapp3.1\WithInterface.pdb
+C:\Users\orgat\source\repos\CircularDependencySolutions\WithInterface\obj\Debug\netcoreapp3.1\WithInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orgat\source\repos\CircularDependencySolutions\WithInterface\obj\Debug\netcoreapp3.1\WithInterface.AssemblyInfoInputs.cache
+C:\Users\orgat\source\repos\CircularDependencySolutions\WithInterface\obj\Debug\netcoreapp3.1\WithInterface.AssemblyInfo.cs
+C:\Users\orgat\source\repos\CircularDependencySolutions\WithInterface\obj\Debug\netcoreapp3.1\WithInterface.csproj.CoreCompileInputs.cache
+C:\Users\orgat\source\repos\CircularDependencySolutions\WithInterface\obj\Debug\netcoreapp3.1\WithInterface.dll
+C:\Users\orgat\source\repos\CircularDependencySolutions\WithInterface\obj\Debug\netcoreapp3.1\WithInterface.pdb
+C:\Users\orgat\source\repos\CircularDependencySolutions\WithInterface\obj\Debug\netcoreapp3.1\WithInterface.genruntimeconfig.cache
