@@ -10,8 +10,10 @@ namespace WithDelegates
         {
             // Do something...
             Console.WriteLine("Making coffee...");
-
-            callback();
+            if(callback != null)
+            {
+                callback();
+            }
 
             // Do something...
         }
